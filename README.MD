@@ -1,5 +1,5 @@
 GOF Patterns
-Factory Method Exampe
+Factory Method Example
 
 RUN 
 1. npm install
